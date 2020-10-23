@@ -28,7 +28,7 @@ public class Biblioteca {
         Collections.sort(carti);
     }
 
-    public void removeBookk(Carte c){
+     public void removeBookk(Carte c){
         carti.remove(c);
     }
 
