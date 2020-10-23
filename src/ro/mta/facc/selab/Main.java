@@ -10,6 +10,10 @@ public class Main {
         b.add(new Carte("marina","aut",3232,3232));
 
         b.sort();
+        b.add(c);
+        b.add(new Carte("ion","aut",32,232));
+        b.add(c);
+        b.add(new Carte("mar","aut",3232,3232));
 
         Biblioteca bib =new Biblioteca();
         bib.add(c);
